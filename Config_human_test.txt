@@ -1,0 +1,3 @@
+//Configure file for test human detector
+-verbose 1
+-work_directory /home/feng/work/BoostDetection/trunk/Dataset/data_human

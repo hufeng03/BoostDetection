@@ -1,0 +1,10 @@
+//configure file for training human detector
+-verbose 1
+-width 64
+-height 128
+-feature_type HoG
+-classifier_type Cascade
+-selected_feature_ratio 0.05
+-work_directory /home/feng/work/project/AdaboostDetection/trunk/Dataset/data_human
+-boost_type 	 GENTLE
+-weakclassifier_type SVM

@@ -1,0 +1,10 @@
+//configure file for training human detector
+-verbose 1
+-width 24
+-height 24
+-feature_type Haar
+-classifier_type Cascade
+-selected_feature_ratio 0.05
+-work_directory /home/feng/work/project/AdaboostDetection/trunk/Dataset/data_face
+-boost_type 	 GENTLE
+-weakclassifier_type CART
