@@ -1,0 +1,4 @@
+BoostDetection is for you to perform/evaluate object detection with various kinds of features(hog/haar/edgelet) features, different weak classifiers and 
+a few boosting algorithms. You are allowed to use each choice in every module. Tested databases are UIUI cars, INRIA human, and self-collected faces.
+
+By hufeng(windrok@gmail.com) 
